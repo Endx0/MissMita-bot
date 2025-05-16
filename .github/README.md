@@ -1,127 +1,123 @@
-<h1 align="center">MissMita Bot</h1>
-<p align="center"><em>Advanced Telegram Group Management — Uncompromising Control & Security</em></p>
-
 <p align="center">
   <img src="Mita(1).jpg" width="250" alt="MissMita Bot Logo"/>
 </p>
 
 <p align="center">
-  <a href="https://t.me/MissMita_Bot"><strong>Invite to Telegram »</strong></a> •
-  <a href="https://t.me/Mita_Support">Support</a> •
-  <a href="https://web-production-61e9.up.railway.app">Live Dashboard</a> •
-  <a href="https://github.com/MissMita-Bot/MissMita-Bot/stargazers">⭐ Star on GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=MissMita+Bot;+Advanced+Telegram+Group+Management;+Unmatched+Control" width="600" alt="Typing Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MissMita-Bot&style=flat-square&label=Visitors" alt="visitor badge"/>
+  <a href="https://t.me/MissMita_Bot"><img src="https://img.shields.io/badge/Invite%20to%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Invite MissMita"/></a>
+  <a href="https://t.me/Mita_Support"><img src="https://img.shields.io/badge/Support-25A18E?style=for-the-badge&logo=telegram&logoColor=white" alt="Support"/></a>
+  <a href="https://web-production-61e9.up.railway.app"><img src="https://img.shields.io/badge/Live%20Dashboard-4A90E2?style=for-the-badge&logo=webhook&logoColor=white" alt="Dashboard"/></a>
+  <a href="https://github.com/MissMita-Bot/MissMita-Bot/stargazers"><img src="https://img.shields.io/github/stars/MissMita-Bot/MissMita-Bot?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/></a>
 </p>
+
+---
+
+## GitHub Profile Metrics
+
+<p align="center">
+  <strong>Total Visitors:</strong><br>
+  <img src="https://profile-counter.glitch.me/MissMita-Bot/count.svg" alt="Visitor Count">
+</p>
+
 
 ---
 
 ## Overview
 
-**MissMita** is a powerful, reliable, and feature-rich Telegram bot engineered for advanced group management, moderation, and community engagement. Designed with enterprise-grade control in mind, it automates routine tasks and enforces group policies with zero compromise.
+**MissMita** is an enterprise-grade Telegram bot engineered for next-level group moderation, security, and engagement. Designed to protect and empower communities of every scale — from private groups to sprawling public channels.
 
-Built to support communities ranging from small groups to massive public channels, MissMita emphasizes security, flexibility, and interactive features to keep your community safe, active, and well-moderated.
-
----
-
-## Why Choose MissMita?
-
-- **Robust Spam Defense:** Auto-detects and mitigates spam, bot raids, mass-joins, NSFW content, flood attacks, and malicious links in real-time.
-- **Customizable Onboarding:** Greet new members with tailor-made messages, interactive buttons, and automatically pinned group rules.
-- **Full Admin Control:** Equip moderators with comprehensive commands — ban, mute, warn, purge messages, review audit logs, and more.
-- **Engagement Tools:** Fetch detailed anime, manga, and character info; serve memes and quotes; enhance chats with fun and utility.
-- **Flexible Utility:** Stylish font generators, website screenshots, dice rolling, translation services, slang definitions, and more.
+With real-time spam defenses, fully customizable welcomes, powerful moderator controls, and a suite of fun utilities, MissMita sets the new standard in Telegram group management.
 
 ---
 
-## Core Features
+## 🚀 Features at a Glance
 
-| Feature                  | Description                                                  |
-|--------------------------|--------------------------------------------------------------|
-| Spam Protection          | Auto-block mass-joins, links, NSFW content, flooders, and bot spam |
-| Welcome & Rules          | Personalized welcome messages with buttons & pinned rules    |
-| Moderator Tools          | Ban, mute, warn, purge, audit logs, and command locks        |
-| Entertainment & Fun      | Anime/manga search, character info, memes, quotes            |
-| Text & Utility Tools     | Stylish fonts, web screenshots, dice rolls, translate, define slang |
+| Feature                | Description                                                      |
+|------------------------|------------------------------------------------------------------|
+| **Spam Shield**        | Auto-block mass joins, spam links, NSFW content, flooders, bots |
+| **Welcome & Rules**    | Custom greetings, interactive buttons, pinned rules             |
+| **Moderator Toolkit**  | Ban, mute, warn, purge, audit logs, lock commands               |
+| **Entertainment Hub**  | Anime/manga search, character info, memes, quotes               |
+| **Utility Suite**      | Stylish fonts, screenshots, dice rolls, translations             |
 
 ---
 
-## Commands
+## 🔥 Core Commands
 
 ### Moderation
 
-| Command               | Description                          | Usage Example                |
-|-----------------------|------------------------------------|-----------------------------|
-| `/ban @username`      | Ban a user permanently              | `/ban @spammer`              |
-| `/mute @username 1h`  | Mute a user for a specified time   | `/mute @user 30m`            |
-| `/warn @username`     | Issue a formal warning              | `/warn @troublemaker`        |
-| `/purge <number>`     | Delete the last `<number>` messages | `/purge 100`                 |
-| `/report` (reply)     | Report a message to group admins   | Reply to a message + `/report` |
+| Command               | Description                          | Example                      |
+|-----------------------|------------------------------------|------------------------------|
+| `/ban @user`          | Ban a user permanently              | `/ban @spammer`               |
+| `/mute @user 1h`      | Temporarily mute user               | `/mute @user 30m`             |
+| `/warn @user`         | Issue a formal warning              | `/warn @troublemaker`         |
+| `/purge <number>`     | Delete last N messages              | `/purge 100`                  |
+| `/report` (reply)     | Report message to admins            | Reply + `/report`             |
 
 ### Utility & Fun
 
-| Command               | Description                          | Usage Example                |
-|-----------------------|------------------------------------|-----------------------------|
-| `/anime <title>`      | Search anime info                   | `/anime Naruto`              |
-| `/manga <title>`      | Search manga info                   | `/manga One Piece`           |
-| `/character <name>`   | Get anime character details         | `/character Gojo`            |
-| `/memes`              | Fetch random memes from Reddit     | `/memes`                    |
-| `/font <text>`        | Generate stylish fonts              | `/font Hello World`          |
-| `/webss <url>`        | Take a screenshot of a website     | `/webss example.com`         |
+| Command               | Description                         | Example                      |
+|-----------------------|-----------------------------------|------------------------------|
+| `/anime <title>`      | Search anime info                  | `/anime Naruto`               |
+| `/manga <title>`      | Search manga details               | `/manga One Piece`            |
+| `/character <name>`   | Fetch anime character profile      | `/character Gojo`             |
+| `/memes`              | Fetch random memes                 | `/memes`                     |
+| `/font <text>`        | Generate stylish fonts             | `/font Hello World`           |
+| `/webss <url>`        | Capture website screenshot         | `/webss example.com`          |
 
 ---
 
-## Installation & Setup
+## ⚙️ Setup & Deployment
 
-MissMita is fully hosted and maintained — no installation needed. To start:
+No complex setup needed — MissMita is hosted and maintained with 24/7 uptime. To get started:
 
 1. Invite [MissMita Bot](https://t.me/MissMita_Bot) to your Telegram group.
-2. Promote the bot to admin with necessary permissions (ban, delete messages, pin, etc.).
-3. Configure settings with the inline `/settings` command or via the [Live Dashboard](https://web-production-61e9.up.railway.app).
-4. Start enjoying automated moderation and engagement!
+2. Promote it to admin with necessary permissions (ban, delete messages, pin, etc.).
+3. Customize settings via the inline `/settings` command or the [Live Dashboard](https://web-production-61e9.up.railway.app).
+4. Enjoy seamless automation and control.
 
 ---
 
-## Architecture & Technology
+## 📡 Channels & Groups
 
-- Written in Python with the **pyrogram** framework for efficient Telegram API interaction.
-- Real-time event handling for instant spam detection and response.
-- Dashboard built with React.js and Node.js for seamless control and monitoring.
-- Continuous integration and deployment via Railway.app ensuring 24/7 uptime.
-
----
-
-## Roadmap
-
-- Enhanced AI-powered spam detection & moderation.
-- Multi-language support and auto-translation.
-- Extended analytics with detailed group reports.
-- Plugin system for custom user extensions.
+- **Groups:** Complete moderation & engagement tools to keep your chats safe and vibrant.
+- **Channels:** Automated content posting, spam control, and analytics to maintain professionalism.
+- **Unified Management:** Control linked groups and channels from one interface with synchronized configurations.
 
 ---
 
-## Support & Community
+## 🛠 Technology Stack
 
-Need help or want to suggest features? Join the official support group:
-
-[![Telegram Support](https://img.shields.io/badge/Telegram-Support-blue?logo=telegram)](https://t.me/Mita_Support)
-
----
-
-## License
-
-MIT License — free to use, modify, and distribute.
+- **Backend:** Python (Pyrogram) for Telegram API interaction
+- **Dashboard:** React.js + Node.js for real-time control
+- **Hosting:** Railway.app for reliable uptime and fast updates
+- **CI/CD:** GitHub Actions for automated testing & deployment
 
 ---
 
-## Contributing
+## 🧩 Roadmap
 
-We welcome contributions! Please check our [CONTRIBUTING.md](https://github.com/MissMita-Bot/MissMita-Bot/blob/main/CONTRIBUTING.md) for guidelines on how to report bugs, request features, and submit pull requests.
+- AI-powered spam and abuse detection
+- Multi-language support and auto-translation
+- Detailed analytics and group insights
+- Plugin architecture for custom extensions
+
+---
+
+## 💬 Support & Contribution
+
+Join our support group to get help or request features:
+
+[![Telegram Support](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/Mita_Support)
+
+Contributions are welcome! Check [CONTRIBUTING.md](https://github.com/MissMita-Bot/MissMita-Bot/blob/main/CONTRIBUTING.md) for guidelines.
+
 
 ---
 
 <p align="center">
-  Maintained with passion and precision by <a href="https://github.com/hasnainkk-07">Hasnain Khan</a>.
+  Maintained with dedication by <a href="https://github.com/hasnainkk-07">Hasnain Khan</a>
 </p>
