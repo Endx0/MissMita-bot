@@ -10,7 +10,7 @@
   <a href="https://t.me/MissMita_Bot"><img src="https://img.shields.io/badge/Invite%20to%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Invite MissMita"/></a>
   <a href="https://t.me/Mita_Support"><img src="https://img.shields.io/badge/Support-25A18E?style=for-the-badge&logo=telegram&logoColor=white" alt="Support"/></a>
   <a href="https://web-production-61e9.up.railway.app"><img src="https://img.shields.io/badge/Live%20Dashboard-4A90E2?style=for-the-badge&logo=webhook&logoColor=white" alt="Dashboard"/></a>
-  <a href="https://github.com/MissMita-Bot/MissMita-Bot/stargazers"><img src="https://img.shields.io/github/stars/MissMita-Bot/MissMita-Bot?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/></a>
+  <a href="https://github.com/Endx0/Endx0/stargazers"><img src="https://img.shields.io/github/stars/Endx0/Endx0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/></a>
 </p>
 
 ---
@@ -19,9 +19,8 @@
 
 <p align="center">
   <strong>Total Visitors:</strong><br>
-  <img src="https://profile-counter.glitch.me/MissMita-Bot/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/Endx0/count.svg" alt="Visitor Count">
 </p>
-
 
 ---
 
@@ -91,19 +90,19 @@ No complex setup needed — MissMita is hosted and maintained with 24/7 uptime. 
 
 ## 🛠 Technology Stack
 
-- **Backend:** Python (Pyrogram) for Telegram API interaction
-- **Dashboard:** React.js + Node.js for real-time control
-- **Hosting:** Railway.app for reliable uptime and fast updates
-- **CI/CD:** GitHub Actions for automated testing & deployment
+- **Backend:** Python (Pyrogram) for Telegram API interaction  
+- **Dashboard:** React.js + Node.js for real-time control  
+- **Hosting:** Railway.app for reliable uptime and fast updates  
+- **CI/CD:** GitHub Actions for automated testing & deployment  
 
 ---
 
 ## 🧩 Roadmap
 
-- AI-powered spam and abuse detection
-- Multi-language support and auto-translation
-- Detailed analytics and group insights
-- Plugin architecture for custom extensions
+- AI-powered spam and abuse detection  
+- Multi-language support and auto-translation  
+- Detailed analytics and group insights  
+- Plugin architecture for custom extensions  
 
 ---
 
@@ -113,11 +112,10 @@ Join our support group to get help or request features:
 
 [![Telegram Support](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/Mita_Support)
 
-Contributions are welcome! Check [CONTRIBUTING.md](https://github.com/MissMita-Bot/MissMita-Bot/blob/main/CONTRIBUTING.md) for guidelines.
-
+Contributions are welcome! Check [CONTRIBUTING.md](https://github.com/Endx0/Endx0/blob/main/CONTRIBUTING.md) for guidelines.
 
 ---
 
 <p align="center">
-  Maintained with dedication by <a href="https://github.com/hasnainkk-07">Hasnain Khan</a>
+  Maintained with dedication by <a href="https://github.com/Endx0">Endx0</a>
 </p>
