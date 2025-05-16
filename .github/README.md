@@ -2,7 +2,7 @@
 <p align="center"><em>Advanced Telegram Group Management — Uncompromising Control & Security</em></p>
 
 <p align="center">
-  <img src=".github/Mita(1).png" width="250" alt="MissMita Bot Logo"/>
+  <img src="Mita(1).jpg" width="250" alt="MissMita Bot Logo"/>
 </p>
 
 <p align="center">
